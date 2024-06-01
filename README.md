@@ -25,7 +25,7 @@ Snake Game - это классическая игра "Змейка", разра
 2. Клонировать репозиторий:
    
 git clone https://github.com/username/snake-game.git
-   cd snake-game
+cd snake-game
    
 3. Собрать проект:
    - Для сборки проекта потребуется компилятор C++ и установленная библиотека SFML.
